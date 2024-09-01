@@ -1,5 +1,5 @@
 step-one:
-![Screenshot_15-8-2024_212633_hdlbits 01xz net](https://github.com/user-attachments/assets/47622044-6f4b-466f-8520-dc67c3e16171)
+![Screenshot_15-8-2024_21213_hdlbits 01xz net](https://github.com/user-attachments/assets/46189153-d904-4c46-8444-cea2ace99c3f)
 
 wire:
 ![Screenshot_15-8-2024_212223_hdlbits 01xz net](https://github.com/user-attachments/assets/97a3892f-2e55-4dc0-b775-b46982da49bd)
